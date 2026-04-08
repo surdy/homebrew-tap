@@ -1,6 +1,6 @@
 cask "nimble" do
-  version "0.10.0"
-  sha256 "11e0f8f97a4353bf64db26078cd22448ffda43bc8017ac99702579c44caa710f"
+  version "0.10.1"
+  sha256 "dc5b8458d19352a411ee7ee1baec5408f9620dfced313a124b9799139aa95afc"
 
   url "https://github.com/surdy/nimble/releases/download/v#{version}/Nimble_#{version}_aarch64.dmg",
       verified: "github.com/surdy/nimble/"
